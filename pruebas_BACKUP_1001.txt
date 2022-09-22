@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-las ramas son chidas, pero causan problemas
-=======
-las ramas son chidas y vamos a hacer un merch
->>>>>>> hot
